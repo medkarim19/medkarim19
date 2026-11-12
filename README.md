@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohamed Karim Bezine
+# Hi 👋, I'm Mohamed Karim Bezine, Certified Kubernetes Administrator (CKA) !
 
 **DevOps · SRE · Cloud · IT Infrastructure Engineer**
 📍 Paris, France · 🎓 ENS Paris-Saclay & ENIS · 🔎 Open to a CDI in France
